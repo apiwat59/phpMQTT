@@ -4,7 +4,8 @@ namespace Bluerhinos;
 
 /*
  	phpMQTT
-	A simple php class to connect/publish/subscribe to an MQTT broker
+	A sitg
+	mple php class to connect/publish/subscribe to an MQTT broker
 
 */
 
